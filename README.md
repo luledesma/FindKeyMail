@@ -5,7 +5,7 @@
 
 Um ataque feito por brute force consiste em tentativas de descoberta de senhas/logins através de processos manuais ou automatizados. 
 
-Os principais alvos são servidores de e-mails, servidores com Telnet ativo, FTP, HTTP com autenticação etc.
+Os principais alvos são servidores de e-mails, servidores com Telnet ativo, FTP, HTTP com autenticação etc.<
 
 
 
