@@ -8,6 +8,7 @@ Um ataque feito por brute force consiste em tentativas de descoberta de senhas/l
 Os principais alvos são servidores de e-mails, servidores com Telnet ativo, FTP, HTTP com autenticação etc.
 
 
+
 [◾] Instalação da ferramenta<br>
 
 • apt-get update<br>
