@@ -11,13 +11,13 @@ Os principais alvos são servidores de e-mails, servidores com Telnet ativo, FTP
 
 [◾] Instalação da ferramenta<br>
 
-• apt-get update<br>
-• apt-get install python3 -y<br>
+• pkg update<br>
+• pkg install python3 -y<br>
 • apt-get install git -y<br>
 • git clone https://github.com/MisterCyber/FindKeyMail<br>
-• cd FindKeyGmail<br>
-• chmod +x FindKeyGmail.py<br>
-• python3 FindKeyGmail.py<br>
+• cd FindKeyMail<br>
+• chmod +x FindKeyMail.py<br>
+• python3 FindKeyMail.py<br>
 
  
 
