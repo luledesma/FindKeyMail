@@ -17,7 +17,7 @@ Os principais alvos são servidores de e-mails, servidores com Telnet ativo, FTP
 • git clone&nbsp; https://github.com/MisterCyber/FindKeyMail<br>
 • cd FindKeyMail<br>
 • chmod +x FindKeyMail.py<br>
-• python3 FindKeyMail.py<br>
+• python3 FindKeyMail.py<br><br><br>
 
  
 
@@ -31,7 +31,8 @@ Telefone.
 endereço.
 Nascimento.
 Relacionamentos.
-Ou apenas lógica.
+Ou apenas lógica.<br><br>
+
 
 --[#] COMO SE PROTEGER
 
