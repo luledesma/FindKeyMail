@@ -23,14 +23,14 @@ Os principais alvos são servidores de e-mails, servidores com Telnet ativo, FTP
 
 --[◾] CRIANDO UMA BOA WORDLIST
 
-É bem comum ver pessoas gerando Wordlist ou compartilhando algumas quê encontram na internet, o que é uma coisa totalmente errada! sua lista de possíveis senhas, deve ser montada aparti do seu conhecimento sobre o alvo, Sejam essas informações!
+É bem comum ver pessoas gerando Wordlist ou compartilhando algumas quê encontram na internet, o que é uma coisa totalmente errada! sua lista de possíveis senhas, deve ser montada aparti do seu conhecimento sobre o alvo, Sejam essas informações!<br>
 
-Família.
-Empresa.
-Telefone.
-endereço.
-Nascimento.
-Relacionamentos.
+Família.<br>
+Empresa.<br>
+Telefone.<br>
+endereço.<Br>
+Nascimento.<br>
+Relacionamentos.<br>
 Ou apenas lógica.<br><br>
 
 
